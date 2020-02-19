@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-     您好!
+     提交到本地仓库和提交到远程仓库
   </div>
 </template>
 
